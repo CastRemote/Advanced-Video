@@ -47,5 +47,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Save to camera roll</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Save to camera roll</string>
 </dict>
 </plist>
